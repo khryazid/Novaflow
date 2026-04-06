@@ -14,7 +14,7 @@ export default function CtaFooter() {
           <div className="max-w-2xl mx-auto">
             <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-text leading-tight mb-6">
               ¿Listo para{' '}
-              <span className="text-gradient">automatizar y escalar</span>{' '}
+              <span className="text-accent">automatizar y escalar</span>{' '}
               tu operación?
             </h2>
             <p className="text-text-muted font-medium text-base sm:text-lg mb-8 max-w-lg mx-auto">

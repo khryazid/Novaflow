@@ -22,8 +22,8 @@ export default function Navbar() {
     <nav
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
         scrolled
-          ? 'bg-primary/90 backdrop-blur-xl border-b border-border shadow-lg shadow-black/10'
-          : 'bg-transparent'
+          ? 'bg-primary/95 backdrop-blur-xl border-b border-border shadow-lg shadow-black/10'
+          : 'bg-primary/80 backdrop-blur-md'
       }`}
     >
       <div className="section-wrap flex items-center justify-between py-4">

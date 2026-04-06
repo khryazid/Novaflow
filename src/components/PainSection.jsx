@@ -34,7 +34,7 @@ export default function BenefitsSection() {
           </span>
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-text mt-3 leading-tight">
             Tu competencia ya{' '}
-            <span className="text-gradient">automatiza sus procesos</span>
+            <span className="text-accent">automatiza sus procesos</span>
           </h2>
           <p className="text-text-muted font-medium mt-4 max-w-2xl mx-auto text-base sm:text-lg">
             Cada minuto que tu equipo pasa en tareas manuales es un minuto que no dedica 
@@ -49,7 +49,7 @@ export default function BenefitsSection() {
             return (
               <div
                 key={b.title}
-                className="card group animate-slide-up"
+                className="card !p-6 sm:!p-8 group animate-slide-up"
                 style={{ animationDelay: `${i * 0.12}s` }}
               >
                 {/* Icon */}

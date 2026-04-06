@@ -40,7 +40,7 @@ export default function FAQ() {
             </span>
             <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-text mt-3">
               Todo lo que necesitas{' '}
-              <span className="text-gradient">saber</span>
+              <span className="text-accent">saber</span>
             </h2>
           </div>
 

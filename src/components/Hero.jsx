@@ -16,7 +16,7 @@ export default function Hero() {
         />
       </div>
 
-      <div className="relative section-wrap pt-28 pb-16 lg:pt-36 lg:pb-24">
+      <div className="relative section-wrap pt-32 pb-16 lg:pt-40 lg:pb-24">
         {/* Two-column on desktop */}
         <div className="flex flex-col lg:grid lg:grid-cols-2 lg:gap-16 lg:items-center">
           {/* Left: Text */}
@@ -35,7 +35,7 @@ export default function Hero() {
               style={{ animationDelay: '0.1s' }}
             >
               Escala tu agencia{' '}
-              <span className="text-gradient">sin contratar más personal</span>
+              <span className="text-accent">sin contratar más personal</span>
             </h1>
 
             {/* Subtitle */}

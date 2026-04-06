@@ -17,7 +17,7 @@ export default function ThankYouPage() {
         </div>
 
         <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-text mb-3 animate-fade-in-up">
-          ¡<span className="text-gradient">Excelente</span> decisión!
+          ¡<span className="text-accent">Excelente</span> decisión!
         </h1>
 
         <p className="text-text-muted font-medium mb-8 animate-fade-in-up" style={{ animationDelay: '0.1s' }}>

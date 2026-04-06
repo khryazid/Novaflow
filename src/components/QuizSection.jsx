@@ -65,7 +65,7 @@ export default function QuizSection() {
             </span>
             <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-text mt-3 leading-tight">
               Descubre tu{' '}
-              <span className="text-gradient">potencial de ahorro</span>{' '}
+              <span className="text-accent">potencial de ahorro</span>{' '}
               en 60 segundos
             </h2>
             <p className="text-text-muted font-medium mt-4 text-base sm:text-lg max-w-lg">

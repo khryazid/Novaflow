@@ -47,7 +47,7 @@ export default function SocialProof() {
           </span>
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-text mt-3 leading-tight">
             Empresas que ya{' '}
-            <span className="text-gradient">transformaron su operación</span>
+            <span className="text-accent">transformaron su operación</span>
           </h2>
         </div>
 
